@@ -1,7 +1,3 @@
-## 📸 Screenshot
-
-![screenshot](output.png)
-![screenshot](output_2.png)
 # 🚀 Linux Infrastructure Audit Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -22,6 +18,12 @@ It connects to a Linux host over SSH and automatically collects detailed system 
 ## ⚙️ What the Tool Does
 
 The script executes multiple Linux commands remotely and gathers:
+
+## 📸 Screenshot
+
+![screenshot](output.png)
+
+![screenshot](output_2.png)
 
 ### 🖥 System Information
 
