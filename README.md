@@ -1,7 +1,7 @@
 ## 📸 Screenshot
 
-![screenshot](screenshots/output.png)
-![screenshot](screenshots/output_2.png)
+![screenshot](output.png)
+![screenshot](output_2.png)
 # 🚀 Linux Infrastructure Audit Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
